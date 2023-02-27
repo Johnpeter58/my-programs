@@ -1,0 +1,10 @@
+The time complexity of operations 2 and 3 are:
+(2)
+* addFirst =  O(1)
+* addLast = O(n)
+* removeFirst = O(1)
+* removeLast = O(n)
+* size = O(1)
+(3)
+* push = O(1)
+* pop = O(1)
